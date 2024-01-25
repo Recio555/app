@@ -1,0 +1,27 @@
+pip install -r requirements.txt
+
+Flask
+Bottle
+CherryPy
+Django
+FastAPI
+Pyramid
+Tornado
+PyQt
+Tkinter
+Kivy
+PySide
+PySimpleGUI
+scikit-learn
+TensorFlow
+PyTorch
+Keras
+NumPy
+SciPy
+Pandas
+Matplotlib
+Pytest
+Unittest
+nose2
+asyncio
+Aiohttp

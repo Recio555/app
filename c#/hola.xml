@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>hola</name>
+    </assembly>
+    <members>
+        <member name="M:HelloWorld.Hello.Main(System.String[])">
+            este es mi primer programa de c#
+            el metodo main es el punto de entrada de todo programa c#
+            este progrma imprime hello worl! en consola.
+        </member>
+    </members>
+</doc>

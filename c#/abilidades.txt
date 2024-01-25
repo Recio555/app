@@ -1,0 +1,6 @@
+Skills and Experience:
+- Proficiency in .Net MAUI development.
+- Experience in building chat applications.
+- Familiarity with consuming APIs.
+- Ability to implement specific design requirements.
+- Experience in integrating mobile apps with existing systems and databases.
